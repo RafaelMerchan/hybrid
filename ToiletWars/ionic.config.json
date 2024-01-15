@@ -1,0 +1,7 @@
+{
+  "name": "ToiletWars",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
